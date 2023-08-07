@@ -1,0 +1,107 @@
+{
+  "determiners": [
+    "A", "An", "Another", "Any", "Both", "Certain", "Each", "Either", "Enough", "Every",
+    "Few", "Fewer", "Half", "Her", "His", "Its", "Little", "Many", "More", "Most",
+    "Much", "My", "Neither", "No", "None", "Noon", "Our", "Several", "Some", "Somebody",
+    "Someone", "Something", "That", "The", "Their", "These", "This", "Those", "What", "Whatever",
+    "Which", "Whichever", "Your", "Other", "All", "Another", "Any", "Both", "Each", "Either",
+    "Enough", "Every", "Few", "Fewer", "Half", "Many", "More", "Most", "Much", "Neither",
+    "No", "None", "Noon", "Other", "Several", "Some", "Somebody", "Someone", "Something", "What",
+    "Whatever", "Which", "Whichever", "All", "Another", "Any", "Both", "Each", "Either", "Enough",
+    "Every", "Few", "Fewer", "Half", "Many", "More", "Most", "Much", "Neither", "No",
+    "None", "Noon", "Other", "Several", "Some", "Somebody", "Someone", "Something", "What", "Whatever",
+    "Which", "Whichever", "All", "Another", "Any", "Both", "Each", "Either", "Enough", "Every",
+    "Few", "Fewer", "Half", "Many", "More", "Most", "Much", "Neither", "No", "None"
+  ],
+  "verbs": [
+    "Accept", "Achieve", "Act", "Admire", "Advise", "Agree", "Aim", "Announce", "Answer", "Apologize",
+    "Arrive", "Ask", "Attempt", "Avoid", "Believe", "Borrow", "Break", "Bring", "Build", "Buy",
+    "Call", "Care", "Change", "Choose", "Clean", "Collect", "Come", "Complain", "Complete", "Consider",
+    "Continue", "Cook", "Cry", "Dance", "Decide", "Defend", "Delay", "Demand", "Deny", "Depend",
+    "Describe", "Desire", "Destroy", "Develop", "Die", "Discover", "Discuss", "Divide", "Do", "Dream",
+    "Drink", "Drive", "Earn", "Eat", "Enjoy", "Explain", "Fail", "Fall", "Feel", "Fight",
+    "Find", "Finish", "Fix", "Fly", "Follow", "Forget", "Forgive", "Freeze", "Get", "Give",
+    "Go", "Hate", "Have", "Hear", "Help", "Hide", "Hug", "Hurry", "Hurt", "Ignore",
+    "Imagine", "Include", "Invite", "Jump", "Keep", "Kiss", "Know", "Laugh", "Learn", "Leave",
+    "Lie", "Like", "Listen", "Live", "Look", "Lose", "Love", "Make", "Marry", "Meet"
+  ],
+  "adjectives": [
+    "able", "absent", "accurate", "adorable", "adventurous", "aggressive", "alert", "amazing", "ambitious", "amusing",
+    "ancient", "angry", "anxious", "apologetic", "appetizing", "arrogant", "attractive", "average", "awful", "beautiful",
+    "beloved", "bitter", "boring", "brave", "bright", "brilliant", "busy", "calm", "careful", "careless",
+    "charming", "cheerful", "clever", "clumsy", "colorful", "comfortable", "confident", "confused", "cozy", "crazy",
+    "creepy", "cruel", "curious", "cute", "daring", "dark", "dead", "delicious", "delightful", "determined",
+    "difficult", "disgusting", "doubtful", "dull", "eager", "easy", "elated", "elegant", "embarrassed", "empty",
+    "energetic", "enormous", "enthusiastic", "evil", "excited", "expensive", "exuberant", "fair", "faithful", "famous",
+    "fancy", "fantastic", "fast", "fat", "fierce", "filthy", "fine", "fluffy", "foolish", "fragile",
+    "frail", "frantic", "friendly", "frightened", "funny", "furious", "gentle", "gifted", "gigantic", "glamorous",
+    "glorious", "good", "graceful", "greedy", "grieving", "grumpy", "handsome", "happy", "healthy", "helpful",
+    "helpless", "hilarious", "homeless", "honest", "horrible", "hungry", "hurt", "icy", "ignorant", "immense",
+    "impatient", "incredible", "innocent", "inquisitive", "jealous", "jolly", "joyful", "joyous", "jumpy", "kind",
+    "lazy", "light", "lively", "lonely", "long", "lovely", "lucky", "mad", "magical", "magnificent",
+    "massive", "mysterious", "nasty", "naughty", "nervous", "nice", "nutty", "obnoxious", "odd", "old",
+    "outrageous", "panicky", "perfect", "pleasant", "poor", "powerful", "precious", "pretty", "proud", "puny",
+    "puzzled", "quaint", "quick", "quiet", "rainy", "rare", "reliable", "repulsive", "rich", "sad",
+    "sassy", "scary", "selfish", "silly", "sleepy", "slimy", "smart", "smiling", "smoggy", "sore",
+    "sparkling", "spooky", "spotless", "stormy", "strong", "stupid", "successful", "sweet", "talented", "tall",
+    "tame", "tasty", "tender", "tense", "terrible", "thankful", "thoughtful", "thoughtless", "tired", "tough",
+    "troubled", "ugly", "uninterested", "unlucky", "unsightly", "upset", "uptight", "vast", "victorious", "vivacious",
+    "wandering", "weary", "wicked", "wild", "witty", "worried", "wrong", "zany", "zealous"
+  ]
+  ,
+  "adverbs": [
+    "aboard", "about", "above", "absolutely", "across", "after", "afterwards", "again", "ago", "ahead",
+    "almost", "alone", "along", "already", "also", "always", "altogether", "anyway", "anywhere", "apart",
+    "aside", "away", "back", "badly", "barely", "before", "behind", "below", "besides", "best",
+    "better", "between", "beyond", "certainly", "clearly", "close", "completely", "constantly", "definitely", "down",
+    "downtown", "eagerly", "early", "else", "enough", "entirely", "especially", "even", "ever", "everywhere",
+    "exactly", "extremely", "fairly", "far", "fast", "forever", "forward", "freely", "further", "generally",
+    "gently", "here", "hopefully", "how", "immediately", "indeed", "instead", "just", "last", "late",
+    "later", "least", "less", "likely", "literally", "long", "loudly", "maybe", "meanwhile", "more",
+    "moreover", "most", "much", "nearly", "never", "next", "nicely", "no", "none", "normally",
+    "not", "now", "nowhere", "obviously", "often", "only", "otherwise", "out", "outside", "over",
+    "particularly", "perfectly", "perhaps", "pretty", "probably", "quite", "quickly", "rarely", "rather", "really",
+    "recently", "right", "roughly", "separately", "seriously", "shortly", "similarly", "simply", "slightly", "slow",
+    "slowly", "so", "soon", "still", "straight", "strongly", "surely", "then", "there", "together",
+    "tomorrow", "too", "totally", "truly", "under", "up", "usually", "very", "well", "when",
+    "where", "why", "widely", "wildly", "yet", "yesterday"
+  ]
+  ,
+  "prepositions": [
+    "about", "above", "across", "after", "against", "along", "amid", "among", "around", "as",
+    "at", "before", "behind", "below", "beneath", "beside", "between", "beyond", "by", "concerning",
+    "considering", "despite", "down", "during", "except", "for", "from", "in", "inside", "into",
+    "like", "near", "of", "off", "on", "onto", "opposite", "out", "outside", "over", "past",
+    "regarding", "round", "since", "through", "throughout", "to", "toward", "under", "underneath", "until",
+    "unto", "up", "upon", "with", "within", "without", "aboard", "abroad", "absent", "adown",
+    "alongside", "apropos", "athwart", "atop", "below", "chez", "circa", "ere", "excepting", "failing",
+    "following", "forenenst", "lest", "mid", "midst", "modulo", "nigh", "notwithstanding", "o'er", "outwith",
+    "pace", "par", "piping", "post", "pre", "pro", "qua", "re", "sans", "sauf",
+    "sith", "subsequent", "than", "throughout", "thru", "thwart", "til", "times", "unto", "up", 
+    "vis-a-vis", "w/o", "where", "withal", "w.r.t.", "w/in", "worth"
+  ]
+  ,
+  "nouns": [
+    "time", "heart", "world", "love", "life", "symphony", "waltz", "dawn", "twilight", "cadence",
+    "grace", "moment", "canvas", "breath", "story", "joy", "sorrow", "virtue", "gaze", "childhood",
+    "laughter", "wisdom", "youth", "dream", "passion", "fire", "star", "hope", "spirit", "fear",
+    "design", "memory", "embrace", "soul", "trial", "triumph", "storm", "strength", "shore", "pain",
+    "scar", "shadow", "rock", "vine", "gift", "unity", "note", "song", "chapter", "gratitude",
+    "toast", "ode", "beauty", "tear", "smile", "sun", "moon", "sea", "wave", "wind", "dance",
+    "silence", "faith", "death", "beginning", "end", "adventure", "journey", "discovery", "freedom", "friendship",
+    "kindness", "courage", "peace", "serenity", "happiness", "imagination", "inspiration", "creativity", "nature", "solitude",
+    "compassion", "less", "warrior", "infinity", "whisper", "echo", "horizon", "morning", "twilight", "passage",
+    "sunset", "dusk", "silhouette", "reflection", "mystery", "wonder", "paradox", "miracle", "essence", "legacy",
+    "destiny", "journey", "victory", "defeat", "thunder", "lightning", "dream", "reality", "illusion", "persistence",
+    "achievement", "failure", "courage", "fear", "despair", "hope", "desire", "regret", "ambition", "doubt",
+    "confidence", "curiosity", "impatience", "gratitude", "envy", "wisdom", "innocence", "experience", "memory", "truth",
+    "lie", "secrets", "conflict", "peace", "chaos", "order", "harmony", "discord", "infinity", "eternity",
+    "whisper", "echo", "horizon", "morning", "twilight", "passage", "sunset", "dusk", "silhouette", "reflection",
+    "mystery", "wonder", "paradox", "miracle", "essence", "legacy", "destiny", "journey", "victory", "defeat",
+    "thunder", "lightning", "reality", "illusion", "persistence", "achievement", "failure", "despair", "desire", "regret",
+    "ambition", "doubt", "confidence", "curiosity", "impatience", "envy", "innocence", "experience", "secrets", "conflict",
+    "chaos", "order", "harmony", "discord", "eternity"
+  ]
+  
+  
+}
